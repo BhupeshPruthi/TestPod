@@ -1,0 +1,6 @@
+framework module BhupeshPruthi {
+  umbrella header "BhupeshPruthi-umbrella.h"
+
+  export *
+  module * { export * }
+}

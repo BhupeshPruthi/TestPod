@@ -1,0 +1,14 @@
+PODS:
+  - BhupeshPruthi (0.1.0)
+
+DEPENDENCIES:
+  - BhupeshPruthi (from `../`)
+
+EXTERNAL SOURCES:
+  BhupeshPruthi:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BhupeshPruthi: 9fd482eda890710ee1fc2b6ec7902ebf58051c60
+
+COCOAPODS: 0.38.2
